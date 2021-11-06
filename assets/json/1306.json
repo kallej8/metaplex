@@ -1,0 +1,54 @@
+{
+  "name": "ThugDogez #1306",
+  "symbol": "TD",
+  "description": "Collection of 3333 deflationary thugdogez living on the cold skreetz of the Solana Blockchain.",
+  "seller_fee_basis_points": 700,
+  "image": "image.png",
+  "external_url": "https://www.youtube.com/c/hashlipsnft",
+  "edition": 1306,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mint"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "None"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "None"
+    },
+    {
+      "trait_type": "Shades",
+      "value": "Red Classic"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Orange Forward Hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Joint"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "G3wHyQvYYsLnw8EHRXjGnd8RFS3RhsDTyoZpXq5jYd3t",
+        "share": 100
+      }
+    ]
+  }
+}
